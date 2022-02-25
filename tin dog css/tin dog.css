@@ -1,0 +1,120 @@
+#title{
+  background-color:#ff4c68;
+  /* height: 500px; */
+}
+
+.navi{
+  color: white;
+  font-weight: 800;
+  font-size: 300%;
+  text-align: center;
+}
+.change-font{
+  color:white;
+  font-size: 312%;
+  line-height: 1.5;
+  /* text-align: left; */
+}
+
+.container-fluid{
+  /* padding-top: 12px; */
+  padding:3% 15%;
+
+}
+.navbar-nav{
+  margin-left: 50%;
+}
+.download{
+  margin-top: 10px;
+}
+.dog-image{
+   width: 60%;
+  margin-top: 5%;
+  transform: rotate(20deg);
+}
+/* testimonials */
+h1,h2{
+
+font-family: 'Montserrat', sans-serif;
+font-weight: 900;
+}
+h3{
+
+font-family: 'Montserrat', sans-serif;
+font-weight: 900;
+}
+#Features{
+  text-align: center;
+  margin-top: 5%
+}
+.fa-solid{
+  /* font-size: 20%; */
+  color:#ff4c68;
+  /* text-align: center; */
+
+}
+
+#testimonials{
+  /* padding: 12% 24%; */
+  text-align: center;
+  background-color:#ff4c68;
+  /* margin:2%; */
+  color: white;
+}
+.dog-image2{
+width: 10%;
+  border-radius: 100%;
+  margin:2%;
+}
+#press{
+  background-color:#ff4c68;
+padding-bottom:5%;
+text-align: center;
+}
+.press-img{
+width:15%;
+margin-left: 30px;
+
+}
+/* testimonial */
+.carousel-item{
+    padding: 10% 20%;
+}
+.row{
+  padding:5% 7%;
+}
+.testimonial-heading{
+margin-top:8%;
+font-family: 'Montserrat', sans-serif;
+font-weight: 900;
+text-align: center;
+
+}
+.testimonial-para{
+  text-align: center;
+}
+/* testimonials */
+/* h3{
+
+font-family: 'Montserrat', sans-serif;
+font-weight: 800;
+} */
+#cta{
+  padding:10% 20%;
+  background-color:#ff4c68;
+
+
+}
+.cta-heading{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  color:white;
+  font-size: 300%;
+  /* text-align:center; */
+}
+@media only screen and (max-width:1000px){
+.dog-image{
+  transform:rotate(0deg);
+  /* position: static; */
+}
+}
